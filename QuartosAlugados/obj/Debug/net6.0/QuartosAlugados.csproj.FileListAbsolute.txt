@@ -1,0 +1,14 @@
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\bin\Debug\net6.0\QuartosAlugados.exe
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\bin\Debug\net6.0\QuartosAlugados.deps.json
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\bin\Debug\net6.0\QuartosAlugados.runtimeconfig.json
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\bin\Debug\net6.0\QuartosAlugados.dll
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\bin\Debug\net6.0\QuartosAlugados.pdb
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.AssemblyInfoInputs.cache
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.AssemblyInfo.cs
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.csproj.CoreCompileInputs.cache
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.dll
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\refint\QuartosAlugados.dll
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.pdb
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\QuartosAlugados.genruntimeconfig.cache
+C:\Users\shaco\source\repos\QuartosAlugados\QuartosAlugados\obj\Debug\net6.0\ref\QuartosAlugados.dll
