@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shaco\\source\\repos\\QuartosAlugados\\QuartosAlugados\\QuartosAlugados.csproj",
+      "projectUniqueName": "C:\\Users\\shaco\\OneDrive\\Documentos\\GitHub\\ProjetoQuartoAlugado\\QuartosAlugados\\QuartosAlugados.csproj",
       "projectName": "QuartosAlugados",
-      "projectPath": "C:\\Users\\shaco\\source\\repos\\QuartosAlugados\\QuartosAlugados\\QuartosAlugados.csproj",
+      "projectPath": "C:\\Users\\shaco\\OneDrive\\Documentos\\GitHub\\ProjetoQuartoAlugado\\QuartosAlugados\\QuartosAlugados.csproj",
       "packagesPath": "C:\\Users\\shaco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shaco\\source\\repos\\QuartosAlugados\\QuartosAlugados\\obj\\",
+      "outputPath": "C:\\Users\\shaco\\OneDrive\\Documentos\\GitHub\\ProjetoQuartoAlugado\\QuartosAlugados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
